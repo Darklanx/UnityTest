@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Mob : MonoBehaviour {
+	public int test;
 	// Animations
 	Animation anim;
 	public AnimationClip run;
